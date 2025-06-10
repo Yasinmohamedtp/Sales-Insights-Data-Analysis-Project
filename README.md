@@ -112,4 +112,4 @@ Created a one-page interactive dashboard using Power BI visuals:
 
 ## 📷 Dashboard Screenshot
 
-![Sales Dashboard](./Assets/DashboardView.png)
+![Sales Dashboard](https://github.com/Yasinmohamedtp/Sales-Insights-Data-Analysis-Project)
